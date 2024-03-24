@@ -116,7 +116,22 @@ After installation, the app can be run like any native application on your syste
 7. **Reduced Resource Usage:**
   
    Tauri apps are lightweight and consume fewer system resources compared to traditional desktop applications or PWAs running in a browser. This leads to better battery life and a more responsive user experience.
-   
+
+## Screenshots
+
+1. **GitHub:**
+
+![240324_19h33m51s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/4b869d67-e83a-4ecf-beb8-4b340b789d59)
+
+![240324_19h33m29s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/1d180e92-a9e0-4502-b4df-5eaccb6d129f)
+
+2. **Gemini:**
+
+![240324_20h22m58s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/9ea26976-28b4-402b-bda3-b30f41db8990)
+
+![240324_20h23m15s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/dffcaf4d-c613-4638-9cdd-498f65c33086)
+
+
 ## Non-Automated Alternative
 
 ### Prerequisites
