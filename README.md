@@ -121,7 +121,7 @@ After installation, the app can be run like any native application on your syste
 
 1. **GitHub:**
 
-![240324_19h33m51s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/4b869d67-e83a-4ecf-beb8-4b340b789d59)
+![240324_20h49m27s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/d92b65c5-cd63-4dce-bf96-d295b868678b)
 
 ![240324_19h33m29s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/1d180e92-a9e0-4502-b4df-5eaccb6d129f)
 
