@@ -7,6 +7,7 @@
 
 TauNest revolutionizes the way you interact with your favorite websites by allowing you to convert them into native applications. It is comprised of an algorithm implemented as a series of commands in a Bash script, designed to automate the creation of lightweight and efficient desktop apps using web technologies. This project leverages Tauri, a tool for building secure, multi-platform desktop applications with a web front-end, to deliver a seamless experience. Additionally, TauNest utilizes Charm's Gum to enhance the user-friendliness of the script's outcomes, providing interactive prompts and inputs for a more intuitive experience. 
 
+![240324_20h49m27s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/d92b65c5-cd63-4dce-bf96-d295b868678b)
 
 ## Overview of Technologies
 
