@@ -9,7 +9,7 @@ TauNest revolutionizes the way you interact with your favorite websites by allow
 
 ![Github_TauNest](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/d92b65c5-cd63-4dce-bf96-d295b868678b)
 
-[TauNest](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91-8af9-2f4c04804e53)
+https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91-8af9-2f4c04804e53
 
 
 ## Overview of Technologies
