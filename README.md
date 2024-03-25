@@ -38,10 +38,6 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
   A Unix shell and command language widely used for scripting and automating tasks in Linux and Unix-based operating systems.
 
-- [**Arch Linux:**](https://archlinux.org/)
-
-  A lightweight and flexible Linux distribution that follows a rolling release model and emphasizes simplicity, modernity, and user control in its design and package management.
-
 ## Prerequisites
 
 - **Operating System:** [Arch Linux](https://archlinux.org/).
