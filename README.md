@@ -14,9 +14,25 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
 ## Overview of Technologies
 
-- [**Tauri**](https://github.com/tauri-apps/tauri): Utilizes web technologies for building secure and lightweight desktop applications.
-- [**Gum**](https://github.com/charmbracelet/gum): Enhances script interactivity with user-friendly prompts and inputs, provided by Charm's toolkit for glamorous shell scripts.
+- [**Tauri**](https://github.com/tauri-apps/tauri):
 
+  Utilizes web technologies for building secure and lightweight desktop applications.
+  
+- [**Gum**](https://github.com/charmbracelet/gum):
+
+  Enhances script interactivity with user-friendly prompts and inputs, provided by Charm's toolkit for glamorous shell scripts.
+  
+- [**Webview:**](https://github.com/webview/webview)
+
+  A web browser that is embedded within the native application window of the Tauri app, in order to "nest" the content of the website.
+  
+- [**WRY:**](https://github.com/tauri-apps/wry)
+
+  Cross-platform WebView rendering library in Rust that supports all major desktop platforms like Windows, macOS, and Linux.
+
+- [**Rust:**](https://github.com/rust-lang/rust)
+
+  Rust is a systems programming language known for its focus on safety, speed, and concurrency, making it ideal for high-performance applications and secure software development.
 
 ## Prerequisites
 
