@@ -34,6 +34,14 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
   Rust is a systems programming language known for its focus on safety, speed, and concurrency, making it ideal for high-performance applications and secure software development.
 
+- [**Bash:**](https://www.gnu.org/software/bash/#navigation)
+
+  A Unix shell and command language widely used for scripting and automating tasks in Linux and Unix-based operating systems.
+
+- [**Arch Linux:**](https://archlinux.org/)
+
+  A lightweight and flexible Linux distribution that follows a rolling release model and emphasizes simplicity, modernity, and user control in its design and package management.
+
 ## Prerequisites
 
 - **Operating System:** [Arch Linux](https://archlinux.org/).
