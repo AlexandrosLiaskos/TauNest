@@ -147,6 +147,8 @@ After installation, the app can be run like any native application on your syste
 
 ![240324_19h33m29s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/1d180e92-a9e0-4502-b4df-5eaccb6d129f)
 
+![Github_TauNest](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/d92b65c5-cd63-4dce-bf96-d295b868678b)
+
 2. **Gemini:**
 
 ![240324_20h22m58s_screenshot](https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/9ea26976-28b4-402b-bda3-b30f41db8990)
