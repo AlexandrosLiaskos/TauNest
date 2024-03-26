@@ -16,7 +16,7 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
 - [**Tauri**](https://github.com/tauri-apps/tauri):
 
-  A framework for building secure, lightweight, and cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript.
+  A framework for building secure, lightweight, and cross-platform desktop applications using web technologies like HTML, CSS and JavaScript.
   
 - [**Gum**](https://github.com/charmbracelet/gum):
 
@@ -32,7 +32,7 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
 - [**Rust:**](https://github.com/rust-lang/rust)
 
-  Rust is a systems programming language known for its focus on safety, speed, and concurrency, making it ideal for high-performance applications and secure software development.
+  A systems programming language known for its focus on safety, speed, and concurrency, making it ideal for high-performance applications and secure software development.
 
 - [**Bash:**](https://www.gnu.org/software/bash/#navigation)
 
