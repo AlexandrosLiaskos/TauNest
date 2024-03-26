@@ -28,7 +28,7 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
   
 - [**WRY:**](https://github.com/tauri-apps/wry)
 
-  Cross-platform WebView rendering library in Rust that supports all major desktop platforms like Windows, macOS, and Linux.
+  A cross-platform WebView rendering library in Rust that supports all major desktop platforms like Windows, macOS, and Linux.
 
 - [**Rust:**](https://github.com/rust-lang/rust)
 
