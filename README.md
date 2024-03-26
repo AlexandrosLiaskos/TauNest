@@ -16,7 +16,7 @@ https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/77ebb2de-66ab-4b91
 
 - [**Tauri**](https://github.com/tauri-apps/tauri):
 
-  A framework for building secure, lightweight, and cross-platform desktop applications using web technologies like HTML, CSS and JavaScript.
+  A framework, built on Rust, for building secure, lightweight, and cross-platform desktop applications using web technologies like HTML, CSS and JavaScript.
   
 - [**Gum**](https://github.com/charmbracelet/gum):
 
