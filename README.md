@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/e4b84b2f-3246-4796-8cda-82fa1ada3eb7" alt="TauNest" width="200"/>
+    <img src="https://github.com/AlexandrosLiaskos/TauNest/assets/128935863/e4b84b2f-3246-4796-8cda-82fa1ada3eb7" alt="TauNest" width="400"/>
 </p>
 <h1 align="center">
     Effortless Native Apps for Your Favorite Websites
