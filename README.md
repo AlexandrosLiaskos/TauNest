@@ -75,19 +75,19 @@ To use TauNest, follow these steps:
   
 _Note: In the newest version of the automated script, it's auto at $HOME/apps, which dir is auto-created too._
       
-3. **Environment Setup:**
+2. **Environment Setup:**
    
    Automatically installs and updates the necessary packages, including the Tauri CLI and Gum.
-4. **Project Initialization:**
+3. **Project Initialization:**
    
    Sets up a new Tauri project in the specified directory and configures it to render the desired website.
-5. **App Configuration:**
+4. **App Configuration:**
    
    Fine-tunes the Tauri configuration using `jq`, setting up the app's properties and behavior.
-6. **Building the App:**
+5. **Building the App:**
    
    Compiles the project into a native executable.
-7. **Icon Customization:**
+6. **Icon Customization:**
     
     Offers the option to set a custom icon for the app.
 
