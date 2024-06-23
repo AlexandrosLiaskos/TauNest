@@ -69,11 +69,11 @@ To use TauNest, follow these steps:
 1. **User Input:**
 
      - **The project name** (Title of the app)
-     - **Desired directory** (Where the Tauri application files will be stored)
      - **Website URL** (Of the desired website)
+     - **Tauri Options** (Rust and Vanilla)
      - **Optional Icon file directory** (The icon of the desktop app)
   
-_Note: In the newest version of the automated script, it's auto at $HOME/apps, which dir is auto-created too._
+_Note: When prompted for the Tauri options, select Rust and Vanilla!_
       
 2. **Environment Setup:**
    
